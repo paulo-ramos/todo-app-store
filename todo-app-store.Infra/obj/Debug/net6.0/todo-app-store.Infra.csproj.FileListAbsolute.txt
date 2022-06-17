@@ -1,0 +1,17 @@
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\bin\Debug\net6.0\todo-app-store.Infra.deps.json
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\bin\Debug\net6.0\todo-app-store.Infra.dll
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\bin\Debug\net6.0\todo-app-store.Infra.pdb
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\bin\Debug\net6.0\todo-app-store.Domain.dll
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\bin\Debug\net6.0\todo-app-store.Domain.pdb
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.AssemblyInfo.cs
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.csproj.CopyComplete
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.dll
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\refint\todo-app-store.Infra.dll
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.pdb
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\ref\todo-app-store.Infra.dll
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\bin\Debug\net6.0\todo-app-store.Infra.runtimeconfig.json
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Infra\obj\Debug\net6.0\todo-app-store.Infra.genruntimeconfig.cache

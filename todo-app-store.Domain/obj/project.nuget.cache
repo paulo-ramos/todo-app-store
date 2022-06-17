@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UkM4iOfPLCSdMFBMMs3ZrYxyR2RrAwenBjR/ZlQTcJqeozkPa6QwiaJ+SyXiVcXwUjg0REe7blMlMm5tMzIIww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo\\source\\repos\\todo-app-store\\todo-app-store.Domain\\todo-app-store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
