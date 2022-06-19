@@ -7,6 +7,9 @@ namespace todoappstore.todoappstore.Domain.Entities
 
 	public class TodoItem : Entity
 	{
+		public TodoItem()
+		{
+		}
 		public TodoItem(string? title, DateTime date, string? user)
 		{
 			Title = title;

@@ -41,9 +41,10 @@ namespace todoappstore.todoappstore.Infra.Repositories
 
 		public TodoItem GetById(Guid id, string? user)
 		{
-			return _context
-					.Todos
-					.FirstOrDefault(x => x.Id == id && x.User == user);
+			var result = _context
+						.Todos
+						.FirstOrDefault(x => x.Id == id && x.User == user);
+			return result != null ? result : new TodoItem();
 		}
 
 		public IEnumerable<TodoItem> GetByPeriod(string user, DateTime date, bool done)

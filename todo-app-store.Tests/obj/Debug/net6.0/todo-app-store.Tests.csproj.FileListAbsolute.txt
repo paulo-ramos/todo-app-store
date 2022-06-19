@@ -9,6 +9,7 @@ C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0\todo-app-store.Tests.runtimeconfig.json
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0\todo-app-store.Tests.dll
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0\todo-app-store.Tests.pdb
+C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0\Flunt.dll
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -100,4 +101,3 @@ C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\obj\Debug\net6.0
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\obj\Debug\net6.0\todo-app-store.Tests.pdb
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\obj\Debug\net6.0\todo-app-store.Tests.genruntimeconfig.cache
 C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\obj\Debug\net6.0\ref\todo-app-store.Tests.dll
-C:\Users\paulo\source\repos\todo-app-store\todo-app-store.Tests\bin\Debug\net6.0\Flunt.dll

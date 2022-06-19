@@ -1,10 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <ProjectReference Include="..\todo-app-store.Domain\todo-app-store.Domain.csproj"/>
+    <ProjectReference Include="..\todo-app-store.Domain\todo-app-store.Domain.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.6"/>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.6"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkcore.sqlserver" Version="6.0.6" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
